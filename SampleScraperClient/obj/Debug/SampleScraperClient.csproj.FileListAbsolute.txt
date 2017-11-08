@@ -1,0 +1,16 @@
+C:\Users\IGZYY-W10\Documents\Visual Studio 2015\Projects\SampleScraperClient\SampleScraperClient\bin\Debug\SampleScraperClient.exe.config
+C:\Users\IGZYY-W10\Documents\Visual Studio 2015\Projects\SampleScraperClient\SampleScraperClient\bin\Debug\SampleScraperClient.exe
+C:\Users\IGZYY-W10\Documents\Visual Studio 2015\Projects\SampleScraperClient\SampleScraperClient\bin\Debug\SampleScraperClient.pdb
+C:\Users\IGZYY-W10\Documents\Visual Studio 2015\Projects\SampleScraperClient\SampleScraperClient\bin\Debug\FSharp.Core.dll
+C:\Users\IGZYY-W10\Documents\Visual Studio 2015\Projects\SampleScraperClient\SampleScraperClient\bin\Debug\HtmlAgilityPack.dll
+C:\Users\IGZYY-W10\Documents\Visual Studio 2015\Projects\SampleScraperClient\SampleScraperClient\bin\Debug\ScrapySharp.Core.dll
+C:\Users\IGZYY-W10\Documents\Visual Studio 2015\Projects\SampleScraperClient\SampleScraperClient\bin\Debug\ScrapySharp.dll
+C:\Users\IGZYY-W10\Documents\Visual Studio 2015\Projects\SampleScraperClient\SampleScraperClient\bin\Debug\FSharp.Core.xml
+C:\Users\IGZYY-W10\Documents\Visual Studio 2015\Projects\SampleScraperClient\SampleScraperClient\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\IGZYY-W10\Documents\Visual Studio 2015\Projects\SampleScraperClient\SampleScraperClient\bin\Debug\HtmlAgilityPack.xml
+C:\Users\IGZYY-W10\Documents\Visual Studio 2015\Projects\SampleScraperClient\SampleScraperClient\bin\Debug\ScrapySharp.pdb
+C:\Users\IGZYY-W10\Documents\Visual Studio 2015\Projects\SampleScraperClient\SampleScraperClient\bin\Debug\ScrapySharp.Core.pdb
+C:\Users\IGZYY-W10\Documents\Visual Studio 2015\Projects\SampleScraperClient\SampleScraperClient\bin\Debug\ScrapySharp.Core.xml
+C:\Users\IGZYY-W10\Documents\Visual Studio 2015\Projects\SampleScraperClient\SampleScraperClient\obj\Debug\SampleScraperClient.csprojResolveAssemblyReference.cache
+C:\Users\IGZYY-W10\Documents\Visual Studio 2015\Projects\SampleScraperClient\SampleScraperClient\obj\Debug\SampleScraperClient.exe
+C:\Users\IGZYY-W10\Documents\Visual Studio 2015\Projects\SampleScraperClient\SampleScraperClient\obj\Debug\SampleScraperClient.pdb
